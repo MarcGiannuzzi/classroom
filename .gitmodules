@@ -13,6 +13,6 @@
 [submodule "stanford-cme-296-diffusion-large-vision-models"]
 	path = stanford-cme-296-diffusion-large-vision-models
 	url = https://github.com/afshinea/stanford-cme-296-diffusion-large-vision-models.git
-[submodule "edu"]
-	path = edu
-	url = https://github.com/ta-da-ta/edu.git
+[submodule "cheat"]
+	path = cheat
+	url = https://github.com/ta-da-ta/cheat.git
